@@ -46,3 +46,6 @@ The **An Optimized Transfer Learning-based Approach for Automatic Detection of C
 >The **CC BY-NC-SA 4.0** is one of the Creative Commons (CC) licenses and allows the different users to share the script only if they (1) give the credits to the copyright holders, (2) do not use the script for any commercial purposes, and (3) distribute any additions, transformations or changes to the script under this same license.
 
 Full Description: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+## (7) More Information About Me:
+Online CV: https://hossambalaha.github.io/
